@@ -1,6 +1,4 @@
-# Sous Vide
-## pre-made vacuum sealed code ready to boil  
+# Dev Portal
+## made using sousvide
 
-* web project starter
-	* smashup of html5 boilerplate
-	* with node, node-sass, gulp-sass, and gulp
+* This is where parallax and webvr lives.
